@@ -1,4 +1,4 @@
-char *codes[][2] = { {"P0000/SAE","Reserved"}
+char  *codes[][2] = { {"P0000/SAE","Reserved"}
 ,{"P0001","Fuel Volume Regulator Control Circuit/Open"}
 ,{"P0002","Fuel Volume Regulator Control Circuit Range/Performance"}
 ,{"P0003","Fuel Volume Regulator Control Circuit Low"}
