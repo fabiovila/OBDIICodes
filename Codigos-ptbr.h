@@ -1,5 +1,5 @@
-#define CODES_SIZE 
-2973char *codes[][2] = { {"P0001","Controle regulador de volume de combustível – Circuito aberto"}
+#define CODES_SIZE 2973
+char *codes[][2] = { {"P0001","Controle regulador de volume de combustível – Circuito aberto"}
 ,{"P0002","Controle regulador de volume de combustível – Faixa/desempenho"}
 ,{"P0003","Controle regulador de volume de combustível – circuito baixo"}
 ,{"P0004","Controle regulador de volume de combustível – circuito alto"}
